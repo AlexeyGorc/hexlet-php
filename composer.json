@@ -11,5 +11,11 @@
     },
     "require": {
         "tightenco/collect": "^9.52"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
     }
 }
